@@ -11,6 +11,9 @@
  
  ## Results
  
+ ![image](https://user-images.githubusercontent.com/90934630/145480417-9df99e36-31d8-4214-b040-eb39ff132e28.png)
+
+ 
 The dynamic webpage allow the users to get more insights on the UFO sightings. The user will be able to filter based on the following parameters in addition to the basic date filer. The additional fiter the user can apply are mentioned below
  - City
  - State
